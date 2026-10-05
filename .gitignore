@@ -1,0 +1,6 @@
+data/
+resultados/
+dashboard.html
+__pycache__/
+*.pyc
+.venv/
