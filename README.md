@@ -98,4 +98,4 @@ On Windows, `run_daily.bat` runs all three; schedule it once a day (Task Schedul
 Outputs: `resultados/` (metrics, regimes, states, lags, current state) and `registro/regime_log.csv` — **one row per day, written at the time and never modified**, committed to the repo as a public forward record.
 
 ---
-*Author: Ivan Alonso · [github.com/ivanalonso-dev](https://github.com/ivanalonso-dev)*
+*Author: Ivan Alonso · [GitHub](https://github.com/ivanalonso-dev) · [LinkedIn](https://www.linkedin.com/in/ivanalonsodev) · [X](https://x.com/ivanalonsodev)*
